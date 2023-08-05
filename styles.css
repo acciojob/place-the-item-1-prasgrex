@@ -1,2 +1,22 @@
+.holder{
+	display:flex;
+	justify-content:space-between;
+}
 
-/* Your CSS Code here. */
+.item{
+	height:100px;
+	width:100px;
+	background-color:ghostwhite;
+	display:flex;
+	flexwrap:wrap;
+}
+
+.item1{
+	background-color:green;
+}
+.item2{
+	background-color:red;
+}
+.item3{
+	background-color:blue;
+}
