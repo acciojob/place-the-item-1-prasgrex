@@ -13,11 +13,14 @@
 }
 
 .item1{
-	background-color:green;
+	background-color:red;
+	order:2;
 }
 .item2{
-	background-color:red;
+	background-color:blue;
+	order:3;
 }
 .item3{
-	background-color:blue;
+	background-color:green;
+	order:1;
 }
